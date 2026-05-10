@@ -36,7 +36,7 @@ cargo install cargo-generate
 使用 `FrenchFriy/template` 模版生成基本的代码：
 
 ```bash
-cargo generate --git https://github.com/FrenchFriy/rust-template
+cargo generate --git https://github.com/Ash76i/rust-template
 ```
 
 ### 安装 pre-commit
